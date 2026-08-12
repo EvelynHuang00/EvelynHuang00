@@ -2,8 +2,6 @@
 
 I'm a **Statistics & Data Science master's student at UC Berkeley** with a background in statistics, quantitative research, and applied machine learning.
 
-Currently exploring **quantitative finance, data science, and statistical modeling**.
-
 ---
 
 ## ✦ A little about me
