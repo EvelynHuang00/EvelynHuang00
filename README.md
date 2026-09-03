@@ -1,42 +1,11 @@
-# Hi, I'm Evelyn
+# Hi, I'm Evelyn.
 
-I'm a **Statistics & Data Science master's student at UC Berkeley** with a background in statistics, quantitative research, and applied machine learning.
+I'm a master's student in Statistics & Data Science at UC Berkeley, previously studied in statistics, economics, quantitative biology, and mathematics at the University of Toronto.
 
----
+I like problems that sit somewhere between statistical modeling and real-world decision-making—especially when the data is messy, the assumptions matter, and there isn't an obvious right answer.
 
-## ✦ A little about me
+Most of my work is in **Python, R, and SQL**. I also use PyTorch, scikit-learn, pandas, Snowflake, and HPC environments when the problem calls for them.
 
-* 🎓 M.A. in Statistics & Data Science @ **UC Berkeley**
-* 🎓 B.Sc. in Statistics, Quantitative Biology & Mathematics @ **University of Toronto**
-* 📊 Background in **Statistics, Economics, Quantitative Biology & Mathematics**
-* 🧠 Research experience in **neuroimaging, behavioral experiments, and statistical methodology**
----
+I'm currently completing my master's degree and exploring 2027 opportunities in quantitative research, data science, and finance.
 
-## ✦ Things I work with
-
-**Languages**
-`Python` `R` `SQL` `JavaScript`
-
-**Statistics & ML**
-`PyTorch` `scikit-learn` `Bayesian Modeling` `Time Series` `Multivariate Analysis`
-
-**Data & Tools**
-`pandas` `Snowflake` `SQL Server` `Git` `LaTeX` `SLURM / HPC` `oTree`
-
----
-
-## ✦ Currently
-
-```text
-learning    → quantitative modeling & machine learning
-building    → research and data science projects
-looking for → 2027 new grad opportunities
-```
-
----
-
-## ✦ Find me elsewhere
-
-[LinkedIn](https://www.linkedin.com/in/lu-evelyn-huang/) · [Email](mailto:lu_huang@berkeley.edu)
-
-<sub>Thanks for stopping by ♡</sub>
+[LinkedIn]http://www.linkedin.com/in/lu-evelyn-huang · [Email](mailto:lu_huang@berkeley.edu)
