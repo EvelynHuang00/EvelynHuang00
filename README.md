@@ -8,4 +8,4 @@ Most of my work is in **Python, R, and SQL**. I also use PyTorch, scikit-learn, 
 
 I'm currently completing my master's degree and exploring 2027 opportunities in quantitative research, data science, and finance.
 
-[LinkedIn]http://www.linkedin.com/in/lu-evelyn-huang · [Email](mailto:lu_huang@berkeley.edu)
+[LinkedIn](http://www.linkedin.com/in/lu-evelyn-huang) · [Email](mailto:lu_huang@berkeley.edu)
